@@ -1,0 +1,59 @@
+body {
+    background-color: #e0e4e8; 
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center; 
+    margin: 0;
+    padding-top: 20px;
+}
+
+#judul {
+    font-size: 20pt;
+    background-color: #2c3e50; 
+    color: #ffffff;
+    padding: 10px 20px;
+    display: inline-block;
+    border: 2px solid #1a252f;
+}
+
+table {
+    display: inline-block;
+    background-color: #ffffff;
+    border-collapse: collapse; 
+}
+
+#jdl {
+    color: #f39c12; 
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+#member {
+    width: 120px;
+    display: inline-block;
+    font-weight: bold;
+    color: #333333; 
+}
+
+#mnama, #mposisi, #mtgl, #msub {
+    font-family: 'helvetica neue', helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    color: #d35400; 
+    font-weight: bold;
+}
+
+.left-div {
+    width: 100px;
+    display: inline-block;
+}
+
+.right-div {
+    display: inline-block;
+}
